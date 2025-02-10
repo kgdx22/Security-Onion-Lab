@@ -1,13 +1,24 @@
 # Security-Onion-Lab
-Home Lab
 
--Objective
+* Objective
+  
+ <br>
+ <br>
+ <br>
+ 
+## Skills Learned
 
+ Designed and configured a home lab using virtualization technologies (Virtualbox, VMware), gaining practical hands-on experience
 
--Skills Learned
+ Deployed and secured various operating systems (Windows, Linux) and servers, enhancing technical skills
 
+ Used Active Directory domain services to promote the server to a domain controller 
 
--Tools Used
+ Collected and analyzed network traffic logs from Security Onion in Splunk, practicing correlating alerts with specific incidents and threat patterns 
+ <br>
+ <br>
+ <br>
+## Tools Used
 
  KALI Linux
  
@@ -22,6 +33,12 @@ Security Onion
    vmware
    
  Windows Client/Server
+
+<br>
+<br>
+<br>
+<br>
+
+# Lab Setup 
   
   
-</div>
