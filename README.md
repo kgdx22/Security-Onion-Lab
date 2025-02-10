@@ -9,7 +9,7 @@ Home Lab
 
 -Tools Used
 
- Kali Linux
+ KALI Linux
  
   pfsense
   
@@ -18,6 +18,8 @@ Security Onion
   Splunk Universal Forwarder
   
    Ubuntu
+
+   vmware
    
  Windows Client/Server
   
