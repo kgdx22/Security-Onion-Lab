@@ -2,7 +2,7 @@
 
 ## Objective
   
-This lab emphasizes the practical application of security monitoring techniques such as log collection, network traffic analysis, and intrusion detection. I was able to gain more hands-on experience with simulating real-world cyberattacks and defending against them within the setup using a KALI Linux machine to simulate attacks against a Windows User. By the end of the lab I felt even more comfortable configuring key tools to detect, analyze, and respond to security events.
+This lab emphasizes the practical application of security monitoring techniques such as log collection, network traffic analysis, and intrusion detection. I was able to gain more hands-on experience with simulating real-world cyberattacks and defending against them within the setup using a Kali Linux machine to simulate attacks against a Windows User. By the end of the lab I felt even more comfortable configuring key tools to detect, analyze, and respond to security events.
  <br>
  <br>
 ## Skills Learned
