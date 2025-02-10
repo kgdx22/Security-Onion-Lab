@@ -40,8 +40,31 @@ This lab emphasizes the practical application of security monitoring techniques 
 
 # Lab Setup 
 
+A. <img width="637" alt="pfsenseserv" src="https://github.com/user-attachments/assets/efd9727b-7788-459b-b10d-2c5249048eae" />
+
+B. <img width="637" alt="so-server" src="https://github.com/user-attachments/assets/6ea30548-8e59-49d5-a481-889296f1e1c8" />
+
+C. <img width="637" alt="pfsense" src="https://github.com/user-attachments/assets/77afddc9-be93-42d7-bcbd-7244c6aad566" />
+
+D. <img width="637" alt="server" src="https://github.com/user-attachments/assets/548e4394-fdec-4499-91bb-e5ba0a63b0ca" />
+
+E.<img width="637" alt="splunkerr" src="https://github.com/user-attachments/assets/03a3c51e-a07d-454f-b174-e0a8de3106ec" />
+
+F. <img width="637" alt="splunklog" src="https://github.com/user-attachments/assets/eacbc396-711b-4ef3-a347-80e331fb3a2a" />
 
 
 ### Key:
+
+A.
+
+B.
+
+C.
+
+D.
+
+E.
+
+F.
   
   
