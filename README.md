@@ -15,11 +15,10 @@ This lab emphasizes the practical application of security monitoring techniques 
 
 * Collected and analyzed network traffic logs from Security Onion in Splunk, practicing correlating alerts with specific incidents and threat patterns 
  <br>
- <br>
- 
-## Tools Used
 
-* KALI Linux
+ ## Tools Used
+
+* Kali Linux
  
 *  pfSense
 
@@ -29,12 +28,10 @@ This lab emphasizes the practical application of security monitoring techniques 
   
   * Ubuntu
 
-  * vmware
+  * VMware
    
 * Windows Client/Server
 
-<br>
-<br>
 <br>
 <br>
 
@@ -51,7 +48,7 @@ B. Security Onion IDS - Configured management/monitor interfaces during setup. E
 
 <img width="637" alt="pfsense" src="https://github.com/user-attachments/assets/77afddc9-be93-42d7-bcbd-7244c6aad566" />
 
-C. pfSense WebConfigurator - Accessed via LAN interface on KALI Linux machine, displays router and DNS configurations(Google). Rules have been created 
+C. pfSense WebConfigurator - Accessed via LAN interface on Kali Linux machine, displays interface and DNS configurations. Rules have been created 
 
 *Screenshot includes full VMware lab setup including target machine
 
@@ -60,23 +57,20 @@ C. pfSense WebConfigurator - Accessed via LAN interface on KALI Linux machine, d
 D. Windows Server - Configured server to use Active Directory Domain & Certificate Services. Promoted to domain controller, created multiple user accounts, and configured pfSense as the default gateway for the DC.
 
 *Disabled firewall
+<br>
+<br>
+<br>
 
-E.<img width="637" alt="splunkerr" src="https://github.com/user-attachments/assets/03a3c51e-a07d-454f-b174-e0a8de3106ec" />
-
-
-
-F. <img width="637" alt="splunklog" src="https://github.com/user-attachments/assets/eacbc396-711b-4ef3-a347-80e331fb3a2a" />
-
-
-### Key:
+<img width="637" alt="splunkerr" src="https://github.com/user-attachments/assets/03a3c51e-a07d-454f-b174-e0a8de3106ec" />
 
 
 
+<img width="637" alt="splunklog" src="https://github.com/user-attachments/assets/eacbc396-711b-4ef3-a347-80e331fb3a2a" />
 
-D. 
+E. Splunk - Generated errors/output displayed in customized event manager. Universal Forwarder has been configured on Windows Server 
 
-E.
+## Conclusion
 
-F.
+This lab provided valuable hands-on experience in configuring and securing a network environment, enhancing my ability to deploy and manage essential security tools. I gained proficiency in setting up and using pfSense for routing, Security Onion for intrusion detection, and Splunk for traffic analysis. By simulating attacks on a Windows client and responding to alerts, I improved my skills in incident detection and analysis. Overall, this lab significantly strengthened my understanding of network defense and security monitoring.
   
   
